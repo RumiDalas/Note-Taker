@@ -1,2 +1,7 @@
+
 # Note-Taker
-This is simple web application using Hibernate Servlet and JSP and SQLyog.
+
+
+# This is simple web application 
+
+# Hibernate Servlet and JSP 
